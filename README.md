@@ -1,7 +1,8 @@
                                                                               # Pizza-Sales---SQL
 
 
-**Introduction**
+-----------------------------The Pizza Data Crunch (SQL)--------------------------------------------------
+
 As an aspiring data analyst, I embarked on a flavorful journey into the world of pizza sales using MySQL. In this project, I dissected data, crunched numbers, and uncovered insights that will make your taste buds tingle. Let’s dive in!
 
 **About This Project 🍽️**
